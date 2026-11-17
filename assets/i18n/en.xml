@@ -1,0 +1,22 @@
+<translations>
+  <category key="Electronics">Electronics</category>
+  <category key="Computers">Computers</category>
+  <category key="Household Appliances">Household Appliances</category>
+  <category key="Home and Decor">Home and Decor</category>
+  <category key="Kitchen and Dining">Kitchen and Dining</category>
+  <category key="Furniture">Furniture</category>
+  <category key="Building and Renovation">Building and Renovation</category>
+  <category key="Tools">Tools</category>
+  <category key="Garden and Outdoor">Garden and Outdoor</category>
+  <category key="Vehicles and Parts">Vehicles and Parts</category>
+  <category key="Sports and Outdoors">Sports and Outdoors</category>
+  <category key="Clothing and Shoes">Clothing and Shoes</category>
+  <category key="Baby and Toddler">Baby and Toddler</category>
+  <category key="Pet Supplies">Pet Supplies</category>
+  <category key="Health and Beauty">Health and Beauty</category>
+  <category key="Books and Office">Books and Office</category>
+  <category key="Toys and Games">Toys and Games</category>
+  <category key="Party and Costumes">Party and Costumes</category>
+  <category key="Other">Other</category>
+  <category key="products">products</category>
+</translations>

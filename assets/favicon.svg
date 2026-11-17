@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SaleGrids">
+  <style>
+    .letter-g { fill: #18181b; }
+    @media (prefers-color-scheme: dark) {
+      .letter-g { fill: #ffffff; }
+    }
+  </style>
+  <text
+    x="16"
+    y="32"
+    text-anchor="middle"
+    dominant-baseline="central"
+    font-family="cursive"
+    font-style="italic"
+    font-size="52"
+    fill="#f43f5e"
+  >S</text>
+  <text
+    class="letter-g"
+    x="48"
+    y="32"
+    text-anchor="middle"
+    dominant-baseline="central"
+    font-family="sans-serif"
+    font-weight="900"
+    font-size="48"
+  >G</text>
+</svg>

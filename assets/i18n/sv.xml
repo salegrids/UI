@@ -1,0 +1,22 @@
+<translations>
+  <category key="Electronics">Elektronik</category>
+  <category key="Computers">Datorer</category>
+  <category key="Household Appliances">Hushållsapparater</category>
+  <category key="Home and Decor">Hem och inredning</category>
+  <category key="Kitchen and Dining">Kök och matplats</category>
+  <category key="Furniture">Möbler</category>
+  <category key="Building and Renovation">Bygg och renovering</category>
+  <category key="Tools">Verktyg</category>
+  <category key="Garden and Outdoor">Trädgård och utomhus</category>
+  <category key="Vehicles and Parts">Fordon och delar</category>
+  <category key="Sports and Outdoors">Sport och friluftsliv</category>
+  <category key="Clothing and Shoes">Kläder och skor</category>
+  <category key="Baby and Toddler">Bebis och småbarn</category>
+  <category key="Pet Supplies">Husdjurstillbehör</category>
+  <category key="Health and Beauty">Hälsa och skönhet</category>
+  <category key="Books and Office">Böcker och kontor</category>
+  <category key="Toys and Games">Leksaker och spel</category>
+  <category key="Party and Costumes">Fest och maskerad</category>
+  <category key="Other">Övrigt</category>
+  <category key="products">produkter</category>
+</translations>
